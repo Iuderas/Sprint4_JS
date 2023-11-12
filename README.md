@@ -5,6 +5,9 @@
     <img src="./src/images/Logo.svg">
 </p>
 
+## :link: Links
+* Netlify: https://urbanflow-react.netlify.app/
+
 ## :memo: Descrição do projeto
 * O urban flow é um aplicativo que mostra para os usuarios, qual a melhor rota de ônibus que o usuario deve tomar para que chegue em seu destino com melhor tempo, tambem levando em consideração a lotação do ônibus para que o usuario não tenha que pegar um ônibus lotado, todas essas informações (lotação, localização e tempo de espera) são mostradas no aplicativo assim que você seleciona sua rota, onde você tambem pode salvar essa rota para caso utilize ela mais de uma vez e não queira pesquisar toda hora, e uma ultima funcionalidade é que a cada mês o sistema gera um relatorio com todas as informações coletadas, como lotação media de tal ônibus, horarios com mais e menos movimento etc.
 * Utilizamos JavaScript, React, HTML5 e CSS para desenvolver o site do projeto e criamos componentes para cada parte do site.
